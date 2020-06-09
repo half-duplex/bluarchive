@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.egg-info/
+
+.env
+.venv
+env/
+venv/
+
+Pipfile
+Pipfile.lock
+
+bluarchive.ini
